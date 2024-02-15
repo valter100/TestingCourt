@@ -1,0 +1,29 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\valte\\desktop\\projekt\\autochess\\testingcourt\\source\\testingcourt\\testingcourtgamemode.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\valte\\desktop\\projekt\\autochess\\testingcourt\\intermediate\\build\\win64\\x64\\testingcourteditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\valte\\desktop\\projekt\\autochess\\testingcourt\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\testingcourt\\definitions.testingcourt.h",
+            "c:\\users\\valte\\desktop\\projekt\\autochess\\testingcourt\\source\\testingcourt\\testingcourtgamemode.h",
+            "a:\\unreal engine\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "a:\\unreal engine\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "a:\\unreal engine\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "a:\\unreal engine\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "c:\\users\\valte\\desktop\\projekt\\autochess\\testingcourt\\intermediate\\build\\win64\\unrealeditor\\inc\\testingcourt\\uht\\testingcourtgamemode.generated.h",
+            "c:\\users\\valte\\desktop\\projekt\\autochess\\testingcourt\\source\\testingcourt\\testingcourtcharacter.h",
+            "a:\\unreal engine\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
+            "a:\\unreal engine\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "a:\\unreal engine\\ue_5.3\\engine\\source\\runtime\\experimental\\iris\\core\\public\\iris\\serialization\\irisobjectreferencepackagemap.h",
+            "a:\\unreal engine\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\iriscore\\uht\\irisobjectreferencepackagemap.generated.h",
+            "a:\\unreal engine\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\charactermovementreplication.generated.h",
+            "a:\\unreal engine\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "a:\\unreal engine\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\rootmotionsource.generated.h",
+            "a:\\unreal engine\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\character.generated.h",
+            "c:\\users\\valte\\desktop\\projekt\\autochess\\testingcourt\\intermediate\\build\\win64\\unrealeditor\\inc\\testingcourt\\uht\\testingcourtcharacter.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

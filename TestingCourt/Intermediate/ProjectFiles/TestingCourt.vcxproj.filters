@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\TestingCourt.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\TestingCourt.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\TestingCourtEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\TestingCourt">
+      <UniqueIdentifier>{6E4035B1-073F-337E-B185-6B3C84B778FA}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\TestingCourt\Ability.cpp">
+      <Filter>Source\TestingCourt</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TestingCourt\Ability.h">
+      <Filter>Source\TestingCourt</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TestingCourt\CastTimeAbility.cpp">
+      <Filter>Source\TestingCourt</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TestingCourt\CastTimeAbility.h">
+      <Filter>Source\TestingCourt</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TestingCourt\Fireball.cpp">
+      <Filter>Source\TestingCourt</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TestingCourt\Fireball.h">
+      <Filter>Source\TestingCourt</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TestingCourt\Target.cpp">
+      <Filter>Source\TestingCourt</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TestingCourt\Target.h">
+      <Filter>Source\TestingCourt</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\TestingCourt\TestingCourt.Build.cs">
+      <Filter>Source\TestingCourt</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\TestingCourt\TestingCourt.cpp">
+      <Filter>Source\TestingCourt</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TestingCourt\TestingCourt.h">
+      <Filter>Source\TestingCourt</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TestingCourt\TestingCourtCharacter.cpp">
+      <Filter>Source\TestingCourt</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TestingCourt\TestingCourtCharacter.h">
+      <Filter>Source\TestingCourt</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TestingCourt\TestingCourtGameMode.cpp">
+      <Filter>Source\TestingCourt</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TestingCourt\TestingCourtGameMode.h">
+      <Filter>Source\TestingCourt</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
